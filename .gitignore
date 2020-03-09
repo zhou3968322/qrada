@@ -1,5 +1,6 @@
-.vscode
 .history
+*.out
+*.out.dSYM
 .idea
 __pycache__
 *.pyc

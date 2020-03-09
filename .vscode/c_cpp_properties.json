@@ -1,0 +1,23 @@
+{
+    "configurations": [{
+        "name": "Mac",
+        "defines": [],
+        "macFrameworkPath": [
+            "/System/Library/Frameworks",
+            "/Library/Frameworks",
+            "${workspaceFolder}/leedcode/**"
+        ],
+        "compilerPath": "/usr/bin/g++",
+        "cStandard": "c11",
+        "cppStandard": "c++17",
+        "intelliSenseMode": "clang-x64",
+        "browse": {
+            "path": [
+                "${workspaceFolder}/leedcode/"
+            ],
+            "limitSymbolsToIncludedHeaders": true,
+            "databaseFilename": ""
+        }
+    }],
+    "version": 4
+}
